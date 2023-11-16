@@ -5,23 +5,24 @@
 ![Logo](https://github.com/EnzoCruzate/EcoDevs-Inkua/blob/main/eccodevs_centrado.png?raw=true)
 
 -----
-# 💫 EcoDevs
+# 💫 PsychoDevs
 
 Repositorio de las pasantías en ONG INKUA
 
-## Descripcion del proyecto EcoLife
+## Descripcion del proyecto PsychoDevs
 
-EcoLife es un proyecto social, el cuál se enfoca en una página web que te ayuda a conocer y aprovechar las fuentes de energía sostenibles. 
+- PsychoDevs es un proyecto enfocado en ofrecer Test para determinar la personalidad, entender las aptitudes y realizar un examen cognitivo (IQ).
 
-En esta página se pueden encontrar diferentes métodos para la generación de energías sustentables, así también información, educación sobre las mismas y herramientas que ayudaran a saber la cantidad de energía que se puede generar, y los materiales que se necesitan así también los contactos/enlaces para conseguirlos.
+- En este sistema, se pueden encontrar una serie de preguntas de las cuales se obtienen las respuestas para determinar la personalidad. Luego, se devuelve un documento para que pueda ser analizado por un profesional.
 
-Es un proyecto de código abierto que busca ser la herramienta para diferentes comunidades, cooperativas y municipios que desarrollan proyectos sociales con el fin de utilizar estas energías para ayudar a las personas mas necesitadas, también a cualquier persona del mundo.
+- Además, se implementa la posibilidad de sumar preguntas, pensando en la adaptación al sector de psicología de InkuA.
+
+- El enfoque principal está planteado para el sector de psicología de InkuA, esto con el fin de obtener un público objetivo directo y proporcionar una solución a la necesidad.
  
-El enfoque principal está planteado para el departamento de San Rafael, Mendoza, Argentina; esto con el fin de obtener un impacto aún mayor y de forma eficiente. EcoLife cuenta con el apoyo de los sectores ecológicos de la municipalidad, cooperativas y grupos de jóvenes ecologistas de San Rafael.
-
-Eco Life propone un herramienta que no se encuentra en la zona, y que además facilita la obtención de los insumos y de la información.
+- La propuesta es crear un sistema que permita obtener una evaluación de la personalidad de la persona que ingresa a InkuA, esto para determinar si es apto para el desarrollo de su trabajo.
+Además, se ofrece la posibilidad de que un profesional pueda analizar la evaluación anteriormente realizada.
+De esta manera, se economiza el tiempo y se facilita el trabajo del sector de psicología.
  
-**Ejemplo:** La página brinda la educación y las herramientas para que una cooperativa en San Rafael pueda utilizar un Tornillo de Arquimedes para ayudar a una familia que necesita electricidad para su hogar, en la página se encontrará información para responder a, ¿Que es este método? ¿Cómo se puede implementar? ¿Cómo Funciona?, así también datos técnicos, como los materiales que se deben utilizar dependiendo del tamaño que deba tener, también se suministran los contactos y enlaces no solo de los materiales si no de expertos para la instalación. 
 
 
 ### INTEGRANTES 
