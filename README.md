@@ -49,8 +49,8 @@ De esta manera, se economiza el tiempo y se facilita el trabajo del sector de ps
 
 - [Juan Villagran](https://github.com/JuanVillagran)
 
-- [Gaston Morales]()
+- [Gaston Morales](https://github.com/Morales1227)
 
-- [Gabriel Hidalgo]()
+- [Gabriel Hidalgo](https://github.com/HidoGG?tab=following)
 
 ----
