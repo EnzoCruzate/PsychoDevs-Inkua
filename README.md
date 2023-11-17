@@ -2,7 +2,7 @@
 
 -----
 
-![Logo](https://github.com/EnzoCruzate/EcoDevs-Inkua/blob/main/eccodevs_centrado.png?raw=true)
+![Logo](https://github.com/EnzoCruzate/PsychoDevs-Inkua/blob/main/logo/psycho-devs.jpeg)
 
 -----
 # 💫 PsychoDevs
