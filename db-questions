@@ -1,0 +1,85 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "pregunta": "¿A?"
+            
+        },
+
+        {
+            "id": 2,
+            "pregunta": "¿B?"
+            
+        },
+
+        {
+        
+            "id": 3,
+            "pregunta": "¿C?"
+            
+        },
+
+        {
+            "id": 4,
+            "pregunta": "¿A?"
+            
+        },
+
+        {
+            "id": 5,
+            "pregunta": "¿B?"
+            
+        },
+
+        {
+        
+            "id": 6,
+            "pregunta": "¿C?"
+            
+        },
+
+        {
+            "id": 7,
+            "pregunta": "¿A?"
+            
+        },
+
+        {
+            "id": 8,
+            "pregunta": "¿B?"
+            
+        },
+
+        {
+        
+            "id": 9,
+            "pregunta": "¿C?"
+            
+        },
+
+        {
+            "id": 10,
+            "pregunta": "¿A?"
+            
+        },
+
+        {
+            "id": 11,
+            "pregunta": "¿B?"
+            
+        },
+
+        {
+        
+            "id": 12,
+            "pregunta": "¿C?"
+            
+        },
+        
+        {
+            "id": 13,
+            "pregunta": "¿B?"
+            
+        }
+    ]
+}
