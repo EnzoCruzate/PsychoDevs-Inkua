@@ -2,84 +2,304 @@
     "questions": [
         {
             "id": 1,
-            "pregunta": "¿A?"
-            
+            "pregunta": "¿Haces nuevos amigos con regularidad?"
         },
 
         {
             "id": 2,
-            "pregunta": "¿B?"
-            
+            "pregunta": "¿Dedicas gran parte de tu tiempo libre a explorar temas aleatorios que despiertan tu interés?"
         },
 
         {
-        
             "id": 3,
-            "pregunta": "¿C?"
-            
+            "pregunta": "¿Ver llorar a otras personas puede hacer que sientas ganas de llorar tú también?"
         },
 
         {
             "id": 4,
-            "pregunta": "¿A?"
-            
+            "pregunta": "¿Sueles hacer un plan de reserva para un plan de reserva?"
         },
 
         {
             "id": 5,
-            "pregunta": "¿B?"
-            
+            "pregunta": "¿Sueles mantener la calma, incluso bajo mucha presión?"
         },
 
         {
-        
             "id": 6,
-            "pregunta": "¿C?"
-            
+            "pregunta": "¿En los actos sociales, rara vez intentas presentarte a gente nueva y sueles hablar con los que ya conoces?"
         },
 
         {
             "id": 7,
-            "pregunta": "¿A?"
-            
+            "pregunta": "¿Te gusta más seguir a tu cabeza que a tu corazón?"  
         },
 
         {
             "id": 8,
-            "pregunta": "¿B?"
-            
+            "pregunta": "¿Sueles preferir hacer lo que te apetece en cada momento en lugar de planificar una rutina diaria concreta?" 
         },
 
         {
-        
             "id": 9,
-            "pregunta": "¿C?"
-            
+            "pregunta": "¿Rara vez te preocupas por causar una buena impresión a las personas que conoces?"
         },
 
         {
             "id": 10,
-            "pregunta": "¿A?"
-            
+            "pregunta": "¿Te gusta participar en actividades de grupo?"   
         },
 
         {
             "id": 11,
-            "pregunta": "¿B?"
-            
+            "pregunta": "¿Te gustan los libros y las películas que te hacen pensar en tu propia interpretación del final?"
         },
 
         {
-        
             "id": 12,
-            "pregunta": "¿C?"
-            
+            "pregunta": "¿Tu felicidad proviene más de ayudar a los demás a conseguir cosas que de tus propios logros?"
         },
         
         {
             "id": 13,
-            "pregunta": "¿B?"
+            "pregunta": "¿Prefieres terminar por completo un proyecto antes de empezar otro?"
             
+        },
+
+        {
+            "id": 14,
+            "pregunta": "¿Eres muy sentimental?"
+        },
+
+        {
+            "id": 15,
+            "pregunta": "¿Te gusta utilizar herramientas de organización como agendas y listas?"
+        },
+
+        {
+            "id": 16,
+            "pregunta": "¿Incluso un pequeño error puede hacerte dudar de tus capacidades y conocimientos generales?"
+        },
+
+        {
+            "id": 17,
+            "pregunta": "¿Te sientes cómodo acercándote a alguien que te parece interesante y entablando una conversación?"
+        },
+
+        {
+            "id": 18,
+            "pregunta": "¿No te interesa demasiado discutir las diversas interpretaciones y análisis de las obras creativas?"
+        },
+
+        {
+            "id": 19,
+            "pregunta": "¿Te interesan tantas cosas que te resulta difícil elegir qué probar a continuación?"
+        },
+
+        {
+            "id": 20,
+            "pregunta": "¿Eres propenso a preocuparte de que las cosas empeoren?"
+        },
+
+        {
+            "id": 21,
+            "pregunta": "¿Evitas el liderazgo en grupos?"
+        },
+
+        {
+            "id": 22,
+            "pregunta": "¿No eres una persona artística?"
+        },
+
+        {
+            "id": 23,
+            "pregunta": "¿Crees que el mundo sería mejor si la gente se basara más en la racionalidad y menos en sus sentimientos?"
+        },
+
+        {
+            "id": 24,
+            "pregunta": "¿Prefieres hacer tus tareas antes de permitirte relajarte?"
+        },
+
+        {
+            "id": 25,
+            "pregunta": "¿Te gusta ver discutir a la gente?"
+        },
+
+        {
+            "id": 26,
+            "pregunta": "¿Tiendes a evitar llamar la atención?"
+        },
+
+        {
+            "id": 27,
+            "pregunta": "¿Tu humor puede cambiar muy rápidamente?"  
+        },
+
+        {
+            "id": 28,
+            "pregunta": "¿Pierdes la paciencia con las personas que no son tan eficientes como tú?"
+        },
+
+        {
+            "id": 29,
+            "pregunta": "¿A menudo acabas haciendo las cosas en el último momento?" 
+        },
+
+        {
+            "id": 30,
+            "pregunta": "¿Siempre te ha fascinado la cuestión de qué ocurre después de la muerte, si es que ocurre algo?"
+        },
+
+        {
+            "id": 31,
+            "pregunta": "¿Sueles preferir estar rodeado de otros que solo?"
+        },
+
+        {
+            "id": 32,
+            "pregunta": "¿Te aburres o pierdes el interés cuando la discusión se vuelve muy teórica?"
+        },
+
+        {
+            "id": 33,
+            "pregunta": "¿Te resulta fácil empatizar con una persona cuyas experiencias son muy diferentes de las tuyas?"
+        },
+
+        {
+            "id": 34,
+            "pregunta": "¿Sueles aplazar la toma de decisiones el mayor tiempo posible?"
+        },
+
+        {
+            "id": 35,
+            "pregunta": "¿Rara vez reconsideras las decisiones que has tomado?"
+        },
+
+        {
+            "id": 36,
+            "pregunta": "¿Después de una semana larga y agotadora, un acto social animado es justo lo que necesitas?"
+        },
+
+        {
+            "id": 37,
+            "pregunta": "¿Te gusta ir a museos de arte?"
+        },
+
+        {
+            "id": 38,
+            "pregunta": "¿Te cuesta comprender los sentimientos de los demás?"
+        },
+
+        {
+            "id": 39,
+            "pregunta": "¿Te gusta tener una lista de tareas para cada día?"
+        },
+
+        {
+            "id": 40,
+            "pregunta": "¿Rara vez te sientes inseguro?"
+        },
+
+        {
+            "id": 41,
+            "pregunta": "¿Evitas llamar por teléfono?"
+        },
+
+        {
+            "id": 42,
+            "pregunta": "¿Sueles pasar mucho tiempo intentando comprender puntos de vista muy diferentes a los tuyos?"
+        },
+
+        {
+            "id": 43,
+            "pregunta": "¿En tu círculo social, sueles ser tú quien contacta con tus amigos e inicia las actividades?"
+        },
+
+        {
+            "id": 44,
+            "pregunta": "¿Si tus planes se ven interrumpidos, tu máxima prioridad es retomarlos lo antes posible?"
+        },
+
+        {
+            "id": 45,
+            "pregunta": "¿Todavía te molestan los errores que cometiste hace mucho tiempo?"
+        },
+
+        {
+            "id": 46,
+            "pregunta": "¿Rara vez contemplas las razones de la existencia humana o el sentido de la vida?"
+        },
+
+        {
+            "id": 47,
+            "pregunta": "¿Tus emociones te controlan más que tú a ellas?"
+        },
+
+        {
+            "id": 48,
+            "pregunta": "¿Te cuidas mucho de no hacer quedar mal a la gente, incluso cuando es completamente culpa suya?"
+        },
+
+        {
+            "id": 49,
+            "pregunta": "¿Tu estilo personal de trabajo se acerca más a las explosiones espontáneas de energía que a los esfuerzos organizados y constantes?"
+        },
+
+        {
+            "id": 50,
+            "pregunta": "¿Cuando alguien tiene una buena opinión de ti, te preguntas cuánto tardará en sentirse decepcionado contigo?"
+        },
+
+        {
+            "id": 51,
+            "pregunta": "¿Te encantaría un trabajo en el que tuvieras que trabajar solo la mayor parte del tiempo?"
+        },
+
+        {
+            "id": 52,
+            "pregunta": "¿Crees que reflexionar sobre cuestiones filosóficas abstractas es una pérdida de tiempo?"
+        },
+
+        {
+            "id": 53,
+            "pregunta": "¿Te sientes más atraído por lugares con ambientes bulliciosos y ajetreados que por lugares tranquilos e íntimos?"
+        },
+
+        {
+            "id": 54,
+            "pregunta": "¿Sabes a primera vista cómo se siente una persona?"
+        },
+
+        {
+            "id": 55,
+            "pregunta": "¿A menudo te sientes abrumado?"
+        },
+
+        {
+            "id": 56,
+            "pregunta": "¿Completas las cosas metódicamente sin saltarte ningún paso?"
+        },
+
+        {
+            "id": 57,
+            "pregunta": "¿Te intrigan mucho las cosas tachadas de controvertidas?"
+        },
+
+        {
+            "id": 58,
+            "pregunta": "¿Dejarías pasar una buena oportunidad si pensaras que otra persona la necesita más?"
+        },
+
+        {
+            "id": 59,
+            "pregunta": "¿Te cuesta cumplir los plazos?"
+        },
+
+        {
+            "id": 60,
+            "pregunta": "¿Confías en que las cosas te saldrán bien?"
         }
+
     ]
 }
